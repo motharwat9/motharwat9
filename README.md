@@ -33,15 +33,14 @@ npx Motharwat9
 
 **🐱 My GitHub Data** 
 
-> 📦 182.9 kB Used in GitHub's Storage 
- > 
-> 🏆 107 Contributions in the Year 2023
+
+> 🏆 34 Contributions in the Year 2023
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 21 Public Repositories 
+> 📜 13 Public Repositories 
  > 
-> 🔑 23 Private Repositories 
+> 🔑 0 Private Repositories 
  > 
 
 📊 **This Week I Spent My Time On** 
