@@ -17,33 +17,9 @@ Pick a slot if you'd like to meet me and chat about anything you are passionate 
 👇 Hit in your console or terminal to connect with me.
 
 ```bash
-npx anmol
+npx Motharwat9
 ```
-**👆 This command line tool can be found at [npx anmol](https://github.com/anmol098/npx_card)**
-
-### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
-
-```javascript
-const anmol = {
-    pronouns: "He" | "Him",
-    code: ["Javascript", "Python", "Java", "PHP"],
-    askMeAbout: ["web dev", "tech", "app dev", "photography"],
-    technologies: {
-        backEnd: {
-            js: ["Node", "Fastify", "Express"],
-        },
-        mobileApp: {
-            native: ["Android Development"]
-        },
-        devOps: ["AWS", "Docker🐳", "Route53", "Nginx"],
-        databases: ["mongo", "MySql", "sqlite"],
-        misc: ["Firebase", "Socket.IO", "selenium", "open-cv", "php", "SuiteApp"]
-    },
-    architecture: ["Serverless Architecture", "Progressive web applications", "Single page applications"],
-    currentFocus: "No Focus point at this time",
-    funFact: "There are two ways to write error-free programs; only the third one works"
-};
-```
+**👆 This command line tool can be found at [npx Motharwat9](https://github.com/motharwat9)**
 
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊</em>
 
@@ -67,63 +43,29 @@ const anmol = {
  > 
 > 🔑 23 Private Repositories 
  > 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                594 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.52 % 
-🌆 Daytime                1795 commits        █████████░░░░░░░░░░░░░░░░   37.84 % 
-🌃 Evening                1514 commits        ████████░░░░░░░░░░░░░░░░░   31.91 % 
-🌙 Night                  841 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.73 % 
-```
-📅 **I'm Most Productive on Sunday** 
-
-```text
-Monday                   557 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.74 % 
-Tuesday                  585 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.33 % 
-Wednesday                805 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.97 % 
-Thursday                 592 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.48 % 
-Friday                   533 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.24 % 
-Saturday                 672 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.17 % 
-Sunday                   1000 commits        █████░░░░░░░░░░░░░░░░░░░░   21.08 % 
-```
-
 
 📊 **This Week I Spent My Time On** 
 
 ```text
-🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-TypeScript               3 hrs 11 mins       ███████████████████░░░░░░   75.57 % 
+TypeScript               3 hrs 11 mins       ███████████████████░░░░░░   50.57 % 
 JSON                     31 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.37 % 
-YAML                     19 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.82 % 
 JavaScript               4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.75 % 
-.env file                2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.92 % 
 
 🔥 Editors: 
-WebStorm                 4 hrs 12 mins       █████████████████████████   99.45 % 
-PyCharm                  1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.55 % 
+Vs Code                 4 hrs 12 mins       █████████████████████████   99.45 % 
 
 💻 Operating System: 
-Mac                      4 hrs 14 mins       █████████████████████████   100.00 % 
+Windows                      4 hrs 14 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
 
 ```text
-JavaScript               36 repos            ████████████░░░░░░░░░░░░░   48.65 % 
-Java                     8 repos             ███░░░░░░░░░░░░░░░░░░░░░░   10.81 % 
-CSS                      7 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   09.46 % 
-Python                   3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   04.05 % 
-TypeScript               3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   04.05 % 
+JavaScript                13 repos            ████████████░░░░░░░░░░░░░   48.65 % 
+CSS                      13 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   09.46 % 
+TypeScript               13 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   04.05 % 
 ```
 
 
-
-
- Last Updated on 29/12/2023 00:20:35 UTC
-<!--END_SECTION:waka-->
-
-**These Readme stats are generated using github action [awesome-readme-stats](https://github.com/anmol098/waka-readme-stats)**
-
-NOTE: Top languages does not indicate my skill level or anything like that. It is just a metric of which languages have been hosted by me on GitHub based on the usage across repositories. There are others which I haven't put up on GitHub.
