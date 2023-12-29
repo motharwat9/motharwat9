@@ -3,9 +3,9 @@
 <p><em>Front-End (Angular) Developer<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/misteranmol?label=Follow)](https://twitter.com/Motharwat9)
-[![Linkedin: anmol](https://img.shields.io/badge/-anmol-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/anmol-p-singh/)](https://www.linkedin.com/in/mohamed-tharwat-8823611b5/)
-![GitHub followers](https://github.com/motharwat9)
+[![Twitter Follow](https://img.shields.io/twitter/follow/mohamed?label=Follow)](https://twitter.com/Motharwat9)
+[![Linkedin: moTharwat](https://img.shields.io/badge/-Mohamed-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/Mohamed-p-singh/)](https://www.linkedin.com/in/mohamed-tharwat-8823611b5/)
+![GitHub followers](https://img.shields.io/github/followers/Motharwat9?label=Follow&style=social)
 
 
 ### 📫 Like to meet me?
